@@ -1,7 +1,6 @@
 class HelmTui < Formula
   desc "Terminal UI for browsing and managing Helm repositories"
   homepage "https://github.com/vasyakrg/helm-tui"
-  version "1.1.0"
   license "MIT"
 
   depends_on "helm"
